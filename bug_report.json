@@ -1,1 +1,23 @@
-
+{
+	"bugReport": {
+		"summary": "descriptionOfTheProblem",
+		"project": "name",
+		"component": "functionName",
+		"version": "number",
+		"severity": [
+			"blocker",
+			"critical",
+			"major",
+			"minor",
+			"trivial"
+		],
+		"priority": [
+			"high",
+			"medium",
+			"low"
+		],
+		"stepToReproduce": "descriptionOfSteps",
+		"actualResult": "receivedResult",
+		"expectedResult": "correctResult"
+	}
+}
